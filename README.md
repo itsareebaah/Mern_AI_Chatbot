@@ -349,7 +349,11 @@ Authorization: Bearer <JWT_TOKEN>
 
 Add project screenshots here:
 
-![Login Page](https://github.com/itsareebaah/Mern_AI_Chatbot/blob/b5d8bfbe2259401e2d86f4b999048429ecc05869/Chat.png)
+#Login Page
+
+![Login Page](https://github.com/itsareebaah/Mern_AI_Chatbot/blob/b0fde18cd3d1bfdc646b961f43d625f744ec64c6/Login.png)
+
+#Chat Page
 
 ![Chat UI](https://raw.githubusercontent.com/itsareebaah/Mern_AI_Chatbot/5a42de04a3c54cf700048d557f940e78260a859e/Chat.png)
 
